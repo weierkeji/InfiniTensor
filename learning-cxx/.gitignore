@@ -1,0 +1,7 @@
+/build/
+
+/log/*
+!/log/placeholder
+
+.*/
+!/.github/
