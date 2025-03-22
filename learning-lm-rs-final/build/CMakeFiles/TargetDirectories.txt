@@ -1,0 +1,3 @@
+/mnt/3T_disk2/chenqi/LearningInfiniTensor/learning-lm-rsnew/build/CMakeFiles/model_bridge.dir
+/mnt/3T_disk2/chenqi/LearningInfiniTensor/learning-lm-rsnew/build/CMakeFiles/edit_cache.dir
+/mnt/3T_disk2/chenqi/LearningInfiniTensor/learning-lm-rsnew/build/CMakeFiles/rebuild_cache.dir
